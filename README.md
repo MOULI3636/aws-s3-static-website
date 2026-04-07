@@ -7,8 +7,8 @@ The website is deployed using **serverless architecture**, ensuring high availab
 ---
 
 ## 🚀 Features
-✔ Static website hosting using AWS S3  
-✔ Highly scalable and reliable  
+- ✔ Static website hosting using AWS S3  
+- ✔ Highly scalable and reliable  
 - ✔ Cost-efficient (pay only for usage)  
 - ✔ Public access via bucket policy  
 - ✔ Responsive UI using HTML, CSS, JavaScript  
@@ -78,7 +78,7 @@ Hosting Type: Static Website Hosting Enabled
 
 ### 🔹 Step 5: Access Website
 ```bash
-http://mouli-s3-website-36-810890578006-eu-north-1-an.s3-website-eu-north-1.amazonaws.com
+http://mouli-s3-website-36-810890578006-eu-north-1-an.s3-website.eu-north-1.amazonaws.com/
 ```
 
 - Website is publicly accessible via S3 endpoint
