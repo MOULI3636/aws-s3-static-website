@@ -88,19 +88,19 @@ http://mouli-s3-website-36-810890578006-eu-north-1-an.s3-website-eu-north-1.amaz
 ## 📸 Screenshots
 
 ### 📂 Bucket Created
-![Bucket](screenshots/1_bucket_created.png)
+![Bucket](screenshots/1_bucket_created.jpeg)
 
 ### 📂 File Uploaded
-![Upload](screenshots/2_file_uploaded.png)
+![Upload](screenshots/2_file_uploaded.jpeg)
 
 ### 🌐 Static Hosting Enabled
-![Hosting](screenshots/3_static_hosting.png)
+![Hosting](screenshots/3_static_hosting.jpeg)
 
 ### 🔐 Bucket Policy
-![Policy](screenshots/4_bucket_policy.png)
+![Policy](screenshots/4_bucket_policy.jpeg)
 
 ### 🚀 Final Output
-![Output](screenshots/5_final_output.png)
+![Output](screenshots/5_final_output.jpeg)
 
 ---
 
