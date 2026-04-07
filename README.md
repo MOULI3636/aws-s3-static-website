@@ -7,8 +7,8 @@ The website is deployed using **serverless architecture**, ensuring high availab
 ---
 
 ## 🚀 Features
-- ✔ Static website hosting using AWS S3  
-- ✔ Highly scalable and reliable  
+✔ Static website hosting using AWS S3  
+✔ Highly scalable and reliable  
 - ✔ Cost-efficient (pay only for usage)  
 - ✔ Public access via bucket policy  
 - ✔ Responsive UI using HTML, CSS, JavaScript  
@@ -91,7 +91,7 @@ http://mouli-s3-website-36-810890578006-eu-north-1-an.s3-website-eu-north-1.amaz
 ![Bucket](screenshots/1_bucket_created.jpeg)
 
 ### 📂 File Uploaded
-![Upload](screenshots/2_file_uploaded.jpeg)
+![Upload](screenshots/2_file_upload.jpeg)
 
 ### 🌐 Static Hosting Enabled
 ![Hosting](screenshots/3_static_hosting.jpeg)
